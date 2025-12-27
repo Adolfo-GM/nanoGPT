@@ -1,0 +1,10 @@
+<u> hi
+<a> hey, how can I help you today?
+<u> tell me a joke
+<a> sure, here's a joke for you:
+why did the tomato turn red?
+because it saw the salad dressing!
+<u> thanks, that was a good joke
+<a> you're welcome! 
+<u> bye
+<a> goodbye! have a great day!
